@@ -20,7 +20,7 @@ This is the source code for my **personal portfolio website**, designed to showc
 
 ## 🖥️ Live Preview
 
-🌐 [revan.vercel.app](https://revan.vercel.app) *(contoh, nanti kamu bisa custom domain juga)*
+🌐 [Personal Web](https://personal-website-gold-two.vercel.app/)
 
 ---
 
