@@ -54,7 +54,7 @@ export const Banner = () => {
     { name: "GitHub", icon: "bi-github", url: "https://github.com/revanalfonso" },
     { name: "Instagram", icon: "bi-instagram", url: "https://www.instagram.com/repan.js/?utm_source=ig_web_button_share_sheet" },
     { name: "Twitter", icon: "bi-twitter-x", url: "https://twitter.com/your-username" },
-    { name: "Email", icon: "bi-envelope-fill", url: "mailto:your-email@example.com" }
+    { name: "Email", icon: "bi-envelope-fill", url: "mailto:revanjuniorw@gmail.com" }
   ];
 
   return (
