@@ -464,4 +464,97 @@ button i {
   background: #f0f0f0;
 }
 
-/* Contact */
+/* Modal styling with glass effect */
+.modal-content {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(15px);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 10px 30px rgba(92, 122, 234, 0.2);
+}
+
+.modal-header {
+  border-bottom: 1px solid rgba(92, 122, 234, 0.2);
+  padding: 1.5rem;
+}
+
+.modal-title {
+  color: #1f1f1f;
+  font-weight: 600;
+}
+
+.modal-body {
+  padding: 2rem;
+}
+
+.modal-footer {
+  border-top: 1px solid rgba(92, 122, 234, 0.2);
+  padding: 1rem;
+}
+
+/* Social media links styling */
+.social-links {
+  margin: 0 auto;
+}
+
+.social-icon-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(92, 122, 234, 0.1);
+  padding: 1.5rem 1rem;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  height: 100%;
+}
+
+.social-icon-wrapper:hover {
+  background: rgba(92, 122, 234, 0.2);
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(92, 122, 234, 0.2);
+}
+
+.social-link {
+  text-decoration: none;
+  color: #1f1f1f;
+}
+
+.social-icon-wrapper i {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  color: #5c7aea;
+}
+
+.social-icon-wrapper span {
+  font-weight: 500;
+}
+
+/* Button in modal */
+.modal-footer .btn-secondary {
+  background-color: #5c7aea;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.modal-footer .btn-secondary:hover {
+  background-color: #3a61eb;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(92, 122, 234, 0.3);
+}
+
+/* Modal close button */
+.btn-close:focus {
+  box-shadow: 0 0 0 0.25rem rgba(92, 122, 234, 0.25);
+}
+
+/* Animation for modal */
+.modal.fade .modal-dialog {
+  transition: transform 0.3s ease-out;
+}
+
+.modal.show .modal-dialog {
+  transform: none;
+}
