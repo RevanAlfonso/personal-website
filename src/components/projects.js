@@ -138,12 +138,14 @@ export const Projects = () => {
                   Sphere ID siap bantu kamu wujudkan project impianmu dengan desain
                   profesional dan harga yang ramah di kantong!
                 </p>
-                <button
-                  className="mt-3 px-4 py-2 rounded-pill fw-semibold"
-                  style={{ background: "#ffffff", color: "#2575fc", border: "none" }}
-                >
-                  ✨ Hubungi Kami Sekarang
-                </button>
+                <a href="https://wa.me/6282269882378" target="_blank" rel="noopener noreferrer">
+  <button
+    className="mt-3 px-4 py-2 rounded-pill fw-semibold"
+    style={{ background: "#ffffff", color: "#2575fc", border: "none" }}
+  >
+    ✨ Hubungi Kami Sekarang
+  </button>
+</a>
               </div>
             </div>
           </Col>
