@@ -3,6 +3,7 @@ import { Col, Container, Row, Nav, Tab } from "react-bootstrap";
 import { ProjectsCard } from "./projectCard";
 import projIm1 from "../assets/img/hai-phung-0z76nwoF1OI-unsplash.jpg";
 import projUIimg1 from "../assets/img/projectUI1.png";
+import projUIimg2 from "../assets/img/projectUI2.png";
 
 export const Projects = () => {
   const projectsWebDevelopment = [
@@ -46,13 +47,14 @@ export const Projects = () => {
       linkUrl: "https://www.figma.com/proto/5e7LvzpOEhLSyTMl5Mx91j/Untitled?node-id=1-2&p=f&t=x70HfiVGuWv6VbfD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2"
     },
     {
-      title: "FoodMood App",
-      description: "Food Delivery UI/UX",
-      imgUrl: projIm1,
+      title: "LaufeyPage",
+      description: "Fan Page Laufey",
+      imgUrl: projUIimg2,
+      linkUrl: "https://www.figma.com/proto/5Zhkl9fl0mHolfPfluNsSr/Untitled?node-id=1-2&p=f&t=hueeXGSH2JTNoUgp-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
     },
     {
-      title: "Fintech Dashboard",
-      description: "Financial App Design",
+      title: "FoodMood App",
+      description: "Food Delivery UI/UX",
       imgUrl: projIm1,
     },
     {
