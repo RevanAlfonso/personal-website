@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://personal-website-gold-two.vercel.app/</loc> <!-- URL dari landing page -->
-    <lastmod>2025-04-25</lastmod> <!-- Tanggal terakhir halaman diperbarui -->
-    <changefreq>April</changefreq> <!-- Halaman tidak berubah terlalu sering -->
-    <priority>1.0</priority> <!-- Prioritas tertinggi karena halaman utama -->
-  </url>
-</urlset>
