@@ -4,8 +4,8 @@ import { ProjectsCard } from "./projectCard";
 import projIm1 from "../assets/img/hai-phung-0z76nwoF1OI-unsplash.jpg";
 import projUIimg1 from "../assets/img/projectUI1.png";
 import projUIimg2 from "../assets/img/projectUI2.png";
-import projWeb1 from "../assets/img/projectWeb1.png";
-import ProjWeb2 from "../assets/img/projectWeb2.png";
+import projWeb1 from "../assets/img/ProjectWeb1.png";
+import ProjWeb2 from "../assets/img/ProjectWeb1.png";
 
 export const Projects = () => {
   const projectsWebDevelopment = [
