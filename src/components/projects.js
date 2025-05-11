@@ -4,6 +4,8 @@ import { ProjectsCard } from "./projectCard";
 import projIm1 from "../assets/img/hai-phung-0z76nwoF1OI-unsplash.jpg";
 import projUIimg1 from "../assets/img/projectUI1.png";
 import projUIimg2 from "../assets/img/projectUI2.png";
+import projWeb1 from "../assets/img/projectWeb1.png";
+import ProjWeb2 from "../assets/img/projectWeb2.png";
 
 export const Projects = () => {
   const projectsWebDevelopment = [
@@ -13,14 +15,14 @@ export const Projects = () => {
       imgUrl: projIm1,
     },
     {
-      title: "E-Commerce Platform",
-      description: "Full-Stack Development",
-      imgUrl: projIm1,
+      title: "KopiSehati.ID",
+      description: "Landing Page for UMKM Coffee Brand",
+      imgUrl: projWeb1,
     },
     {
-      title: "Travel Blog",
-      description: "React & Node.js",
-      imgUrl: projIm1,
+      title: 'Campaign Sosial - "Hijau Langit - Gerakan Tanam Pohon"',
+      description: "Social Campaign Website for Tree Planting Movement",
+      imgUrl: ProjWeb2,
     },
     {
       title: "Task Manager App",
@@ -50,7 +52,7 @@ export const Projects = () => {
       title: "LaufeyPage",
       description: "Fan Page Laufey",
       imgUrl: projUIimg2,
-      linkUrl: "https://www.figma.com/proto/5Zhkl9fl0mHolfPfluNsSr/Untitled?node-id=1-2&p=f&t=hueeXGSH2JTNoUgp-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
+      linkUrl: "https://www.figma.com/proto/5Zhkl9fl0mHolfPfluNsSr/Untitled?node-id=1-2&p=f&t=hueeXGSH2JTNoUgp-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1 "
     },
     {
       title: "FoodMood App",
