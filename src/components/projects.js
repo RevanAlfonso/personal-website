@@ -5,24 +5,28 @@ import projIm1 from "../assets/img/hai-phung-0z76nwoF1OI-unsplash.jpg";
 import projUIimg1 from "../assets/img/projectUI1.png";
 import projUIimg2 from "../assets/img/projectUI2.png";
 import projWeb1 from "../assets/img/ProjectWeb1.png";
-import ProjWeb2 from "../assets/img/ProjectWeb1.png";
+import ProjWeb2 from "../assets/img/ProjectWeb2.png";
+import ProjWeb3 from "../assets/img/ProjectWeb3.png";
 
 export const Projects = () => {
   const projectsWebDevelopment = [
     {
       title: "Personal Website",
       description: "Design & Development",
-      imgUrl: projIm1,
+      imgUrl: ProjWeb3,
+      linkUrl: "personal-website-gold-two.vercel.app"
     },
     {
       title: "KopiSehati.ID",
       description: "Landing Page for UMKM Coffee Brand",
       imgUrl: projWeb1,
+      linkUrl: "https://revanalfonso.github.io/landing-page-kopi-sehati/"
     },
     {
       title: 'Campaign Sosial - "Hijau Langit - Gerakan Tanam Pohon"',
       description: "Social Campaign Website for Tree Planting Movement",
       imgUrl: ProjWeb2,
+      linkUrl: "https://revanalfonso.github.io/landing-page-campaign-hijau/"
     },
     {
       title: "Task Manager App",
