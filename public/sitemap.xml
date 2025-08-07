@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+  <url>
+    <loc>https://personal-website-gold-two.vercel.app/</loc>
+    <lastmod>2025-08-07</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://personal-website-gold-two.vercel.app/about</loc>
+    <lastmod>2025-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://personal-website-gold-two.vercel.app/projects</loc>
+    <lastmod>2025-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://personal-website-gold-two.vercel.app/contact</loc>
+    <lastmod>2025-08-07</lastmod>
+    <priority>0.64</priority>
+  </url>
+</urlset>
